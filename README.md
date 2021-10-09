@@ -1,1 +1,1 @@
-# Kullback-Leibler-MAX-Algorism
+# Kullback-Leibler-MAX-Algorithm
